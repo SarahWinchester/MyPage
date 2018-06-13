@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+}
+/* .opaque{
+  background-image: url(../assets/img/header.jpg);
+  padding: 5em;
+}
+body nav{
+  height: 56px;
+  background-color:black;
+  color: white;
+}
+.burger{
+  margin-top: 15px;
+  margin-right: 15px;
+  float: right;
+}
+.menu{
+  float: right;
+  text-align: right;
+}
+.menu li{
+  display: inline-block;
+  height: 56px;
+  padding: 20px 10px;
+}
+.menu a{
+  color:rgb(44, 137, 149);
+  text-decoration: none;
+}
+.menu a:hover{
+  color:rgb(83, 255, 0);
+}
+.brand{
+  float:left;
+  font-weight: bolder;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+.opaque h1{
+  font-family:
+}
+footer{
+  height: 56px;
+  background-color: #343a40;
+  text-align: center;
+  color: white;
+  padding: 2em;
+} */
