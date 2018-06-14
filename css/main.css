@@ -48,7 +48,7 @@ header {
 }
 
  .subtitle {
-  text-align: rigth;
+  float: right;
 }
 
 .WDWD {
@@ -96,6 +96,11 @@ p {
 .container-img img {
   height: 250px;
   width: 300px;
+}
+.burger-menu{
+  background-color:  white;
+  margin-left: 40%;
+  float: right;
 }
 
 footer {
