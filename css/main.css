@@ -1,6 +1,40 @@
 body{
   text-align: center;
 }
+.menu ul li{
+  display: inline-block;
+  height: 20px;
+  padding: 15px;
+  text-align: right;
+}
+.menu{
+  text-align: right;
+}
+
+nav{
+  height: 57px;
+  background-color: black;
+  text-align: left;
+
+}
+.titles{
+
+  color: white;
+
+}
+header{
+  background-image: url("../assets/img/mini.jpg");
+  color: white;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+}
+.row .subtitle{
+  text-align: rigth;
+}
+.WDWD{
+  text-align: left;
+}
 /* .opaque{
   background-image: url(../assets/img/header.jpg);
   padding: 5em;
